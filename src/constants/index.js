@@ -179,39 +179,39 @@ const blogs = [
     name: "Why Next.js is Revolutionizing Web Development",
     image: nextImg,
     date:"14 Aug,2024",
-    source_code_link: "https://github.com/",
+    urlPath: "https://medium.com/@vidhichauhan2712/why-next-js-is-revolutionizing-web-development-d49ac78991f6 ",
   },
   
   {
     name: "Migrating from ASP.NET to .NET Core: Key Features and Considerations",
     image: aspImg,
     date:"14 Aug,2024",
-    source_code_link: "https://github.com/",
+    urlPath: "https://medium.com/@vidhichauhan2712/migrating-from-asp-net-to-net-core-key-features-and-considerations-4466f1562c5c",
   },
   {
     name: "Animating the Web with Framer Motion: A New Era in UI/UX Design",
     image: framerImg,
     date:"14 Aug,2024",
-    source_code_link: "https://github.com/",
+    urlPath: "https://medium.com/@vidhichauhan2712/animating-the-web-with-framer-motion-a-new-era-in-ui-ux-design-e46d77a221bb",
   },
  
   {
     name: "Progressive Web Apps (PWA): The Future of Web Development",
     image: pwaImg,
     date:"14 Aug,2024",
-    source_code_link: "https://github.com/",
+    urlPath: "https://medium.com/@vidhichauhan2712/progressive-web-apps-pwa-the-future-of-web-development-e9070b271a4c",
   },
   {
     name: "Tailwind CSS: Revolutionizing Front-End Development",
     image: tailwindImg,
     date:"14 Aug,2024",
-    source_code_link: "https://github.com/",
+    urlPath: "https://medium.com/@vidhichauhan2712/tailwind-css-revolutionizing-front-end-development-f061ac69ba08",
   },
   {
     name: "Exploring the Latest Features in ASP.NET: What’s New and Why It Matters",
     image: aspImg,
     date:"14 Aug,2024",
-    source_code_link: "https://github.com/",
+    urlPath: "https://medium.com/@vidhichauhan2712/exploring-the-latest-features-in-asp-net-whats-new-and-why-it-matters-9e75c5b55fc5",
   },
 ];
 
