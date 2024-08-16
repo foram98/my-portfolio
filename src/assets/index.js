@@ -29,10 +29,16 @@ import tesla from "./company/tesla.png";
 import praveen from "./company/praveen.jpeg";
 import sun from "./company/sun.png";
 import lupin from "./company/lupin.png";
+// project Img import 
+import current from "./project1.png";
+import jobit from "./project2.png";
+import tripguide from "./project3.png";
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import nextImg from './blogs/next.jpeg';
+import aspImg from './blogs/asp.jpeg';
+import framerImg from './blogs/framer.jpeg';
+import pwaImg from './blogs/pwa.jpeg';
+import tailwindImg from './blogs/tailwind.jpeg';
 
 export {
   logo,
@@ -60,10 +66,16 @@ export {
   shopify,
   starbucks,
   tesla,
-  carrent,
+  current,
   jobit,
   tripguide,
   praveen,
   sun,
   lupin,
+  nextImg,
+  aspImg,
+  framerImg,
+  pwaImg,
+  tailwindImg
+
 };

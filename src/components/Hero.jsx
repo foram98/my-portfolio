@@ -20,23 +20,12 @@ const Hero = () => {
 
         <div>
           <h1 className={`font-black text-white lg:text-[80px] sm:text-[60px] xs:text-[50px] text-[40px] lg:leading-[98px] mt-2`}>
-            Hi, I&apos;m <span className="text-[#915eff]">User</span>
+            Hi, We&apos;re<span className="text-[#915eff]">Web Developers</span>
           </h1>
           <p className={`text-[#dfd9ff] font-medium lg:text-[30px] sm:text-[26px] xs:text-[20px] text-[16px] lg:leading-[40px] my-2 `}>
-            I develop Frontend Web Application.
+            We develop Frontend Web Application.
             <br className="sm:block hidden" />
           </p>
-          {/* <div
-            className={`flex border-4 w-[120px] text-center text-1 p-1 cursor-pointer`}
-            onClick={handleResumeClick}
-          >
-            <a
-              href={MyCv} // Replace with the actual path to your resume PDF
-              download="Bibhash_cv"
-            >
-              Get Resume
-            </a>
-          </div> */}
         </div>
       </div>
 

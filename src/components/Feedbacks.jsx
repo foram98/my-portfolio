@@ -46,7 +46,7 @@ const FeedbackCard = ({
 
 const Feedbacks = () => {
   return (
-    <div className="mt-12 bg-black-100 rounded-[20px]">
+    <section className="mt-12 bg-black-100 rounded-[20px]">
       <div
         className={`sm:px-16 px-6 sm:py-16 py-10 bg-tertiary rounded-2xl min-h-[300px]`}
       >
@@ -55,12 +55,12 @@ const Feedbacks = () => {
           <h2 className={"text-white font-black md:text-[60px] sm:text-[50px] xs:text-[40px] text-[30px]"}>Testimonials.</h2>
         </motion.div>
       </div>
-      <div className={`sm:px-16 px-6 -mt-20 pb-14 flex flex-wrap gap-7`}>
+      <div className={`sm:px-16 px-6 -mt-20 pb-14 flex flex-wrap justify-center gap-7`}>
         {testimonials.map((testimonial, index) => (
           <FeedbackCard key={testimonial.name} index={index} {...testimonial} />
         ))}
       </div>
-    </div>
+    </section>
   );
 };
 

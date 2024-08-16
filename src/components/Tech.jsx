@@ -5,7 +5,7 @@ import { technologies } from "../constants";
 
 const Tech = () => {
   return (
-    <div className="flex flex-row flex-wrap justify-center gap-10">
+    <section className="flex flex-row flex-wrap justify-center gap-10">
       {technologies.map((technology) => {
         console.log('technology', technology)
 
@@ -15,7 +15,7 @@ const Tech = () => {
       }
 
       )}
-    </div>
+    </section>
   );
 };
 
